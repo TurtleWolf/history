@@ -7,11 +7,11 @@ I've got more experience than I usually mention
 1994 Photoshop 3.2  
 1995 3D Studio & Mutlti Media  
 2003 Skinning MySpace Music Players
-Excel Formulas
-DreamWeaaver
-SketchUp
-WordPress with ShutterFly  Links
-Customer Portal for a Dirt Bike Track in Drupal
-Customer Portal for Lawn Care in CodeIgniter/Bonefire in PHP
-Free Code Camp
-Mern Stack
+Excel Formulas  
+DreamWeaaver  
+SketchUp  
+WordPress with ShutterFly  Links  
+Customer Portal for a Dirt Bike Track in Drupal  
+Customer Portal for Lawn Care in CodeIgniter/Bonefire in PHP  
+Free Code Camp  
+Mern Stack  
