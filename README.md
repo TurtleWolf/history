@@ -5,9 +5,11 @@ I've got more experience than I usually mention
 1990 High School Art Courses  
 1993 CAD  
 1994 Photoshop 3.2  
-1995 3D Studio & Mutlti Media  
-2003 Skinning MySpace Music Players
+1995 3D Studio  
+Mutlti Media  
+2003 Skinning MySpace Music Players  
 Excel Formulas  
+  self summing spread sheets   
 DreamWeaaver  
 SketchUp  
 WordPress with ShutterFly  Links  
